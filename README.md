@@ -51,14 +51,6 @@ I build mobile products end-to-end — from early-stage MVPs to apps serving **1
 | **AndroidChatApp** | Real-time chat threads with a documented architecture write-up. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prakashsrv/AndroidChatApp) |
 | **WorldNews** | Offline-first news app exploring on-device LLM summarization and embedding-based semantic search. | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prakashsrv/WorldNews) |
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prakashsrv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashsrv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
 
 ---
 
